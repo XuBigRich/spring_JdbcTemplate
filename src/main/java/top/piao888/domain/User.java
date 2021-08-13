@@ -7,8 +7,8 @@ import lombok.Setter;
 @Getter
 @Setter
 @NoArgsConstructor
-public class UserAuth {
-    private Long did;
-    private String dname;
+public class User {
+    private Long id;
+    private String name;
 
 }
