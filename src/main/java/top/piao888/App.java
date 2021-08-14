@@ -1,6 +1,5 @@
 package top.piao888;
 
-import org.springframework.context.support.ClassPathXmlApplicationContext;
 import top.piao888.dao.UserMapper;
 import top.piao888.enums.BeanEnum;
 import top.piao888.factory.BeanFactory;
